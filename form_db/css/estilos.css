@@ -1,0 +1,26 @@
+table {
+    margin-top: 10px;
+    width: 80%;
+    border-radius: 5px;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+td {
+    border-radius: 5px;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    margin-left: 5vh;
+}
+
+img {
+    width: 16px;
+    height: 16px;
+}
